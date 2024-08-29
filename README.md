@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="70" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
+  <img height="50" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
 </div>
 
 ###
@@ -14,11 +14,15 @@
 
 ###
 
-<br>
+<h2 align="left">Stats📌</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fernanda-Paulino&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+###
+
+<br clear="both">
+
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=Fernanda-Paulino&locale=pt-br&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fernanda-Paulino&radius=16&theme=modern-lilac&area=true&order=5" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
